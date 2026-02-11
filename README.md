@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Aditya Jain Portfolio
-=======
 # Aditya Jain - Portfolio Website
 
 A modern, client-attracting portfolio website built with React and FastAPI.
@@ -263,4 +260,3 @@ Built with ❤️ using:
 ---
 
 Made with care by Aditya Jain © 2026
->>>>>>> c087981 (Initial portfolio commit)
