@@ -35,12 +35,12 @@ jobs:
       # Install Dependencies
       - name: Install dependencies
         working-directory: frontend
-        run: npm install
+        run: yarn install
 
       # Build
       - name: Build
         working-directory: frontend
-        run: npm run build
+        run: yarn run build
 
       # Deploy
       - name: Deploy to GitHub Pages
