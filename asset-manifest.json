@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adityajain.dev/static/css/main.07379acb.css",
+    "main.js": "/adityajain.dev/static/js/main.0443aa60.js",
+    "index.html": "/adityajain.dev/index.html",
+    "main.07379acb.css.map": "/adityajain.dev/static/css/main.07379acb.css.map",
+    "main.0443aa60.js.map": "/adityajain.dev/static/js/main.0443aa60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07379acb.css",
+    "static/js/main.0443aa60.js"
+  ]
+}
